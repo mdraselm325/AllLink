@@ -1,0 +1,8 @@
+flask
+requests
+pytest
+trio
+pytest-trio
+flake8
+yt-dlp
+gunicorn
