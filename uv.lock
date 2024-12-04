@@ -128,7 +128,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "flask", specifier = ">=3.0.3" },
-    { name = "yt-dlp", specifier = ">=2024.11.4" },
+    { name = "yt-dlp", specifier = ">=2024.12.03" },
 ]
 
 [[package]]
